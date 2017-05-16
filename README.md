@@ -10,11 +10,10 @@ _Convert any numbe rinto Roman numerals (between 0-399)_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone repository_
+* _open file in browser_
+* _enter a number_
+* _press enter_
 
 ## Specs
 
