@@ -71,7 +71,7 @@ _Convert any numbe rinto Roman numerals (between 0-399)_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_JavaScript, jQuery. HTML, CSS_
 
 ### License
 
